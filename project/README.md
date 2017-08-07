@@ -12,7 +12,7 @@
        * [InnoCentive](https://www.innocentive.com/ar/challenge/browse)
     * Statistical Competitions:
       * [International Association for Statistical Computing](http://www.iasc-isi.org/node/276) - contains links to past competitions in [2014](http://www.iasc-isi.org/node/227), [2013](http://www.iasc-isi.org/node/189)
-* **August 18: ** Project check-in #1
+* **August 18:** Project check-in #1
 * **August 31:** Project check-in #2
     * [Peer review guidelines](peer_review.md)
 * **September 14:** Final project presentation
