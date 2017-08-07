@@ -1,20 +1,20 @@
 ## Metis Introduction to Data Science Workshop Repo
 
-Course materials for [Metis' Introduction to Data Science Course](http://www.thisismetis.com/introduction-to-data-science) in New York, NY (7/12/16 - 8/18/16).
+Course materials for [Metis' Introduction to Data Science Course](http://www.thisismetis.com/introduction-to-data-science) in Washington DC (8/8/17 - 9/14/17).
 
-**Instructor:** [Sergey Fogelson](https://www.linkedin.com/in/sergeyfogelson)
+**Instructor:** [Charles Givre](https://www.linkedin.com/in/cgivre)
 
 ### [Course Project](project/README.md)
 
-###Schedule:
+### Schedule:
 Tuesday | Thursday
 --- | ---
-4/19: [Introduction to Python and Version Control](#class-1-introduction-to-python-and-version-control) | 4/21: [Introduction to Linear Algebra and Statistics in Python](#class-2-introduction-to-linear-algebra-and-statistics-in-python)
-4/26: [Pandas and Exploratory Data Analysis](#class-3-pandas-and-exploratory-data-analysis) | 4/28: [Pandas and Data Visualization](#class-4-pandas-and-data-visualization)
-5/3: [Supervised Machine Learning and Basic Model Evaluation](#class-5-supervised-machine-learning-and-basic-model-evaluation) | 5/5: [Unsupervised Machine Learning and Basic Model Evaluation](#class-6-unsupervised-machine-learning-and-basic-model-evaluation)
-5/10: [Advanced Supervised Learning](#class-7-advanced-supervised-learning) | 5/12: [Data Modeling: Feature Engineering and Basic Cross Validation](#class-8-feature-engineering-and-basic-cross-validation)
-5/17: [Data Modeling: Regularization, Feature Decomposition](#class-9-feature-decomposition-and-regularization) | 5/19: [Advanced Unsupervised Learning](#class-10-advanced-unsupervised-learning) 
-5/24: [Advanced Model Evaluation and Pipelines](#class-11-advanced-model-evaluation-and-data-pipelines) | 5/26: [Project Presentations and Course Wrap-up](#class-12-project-presentations-and-where-to-go-from-here)
+8/8: [Introduction to Python and Version Control](#class-1-introduction-to-python-and-version-control) | 8/10: [Introduction to Linear Algebra and Statistics in Python](#class-2-introduction-to-linear-algebra-and-statistics-in-python)
+8/16: [Pandas and Exploratory Data Analysis](#class-3-pandas-and-exploratory-data-analysis) | 8/18: [Pandas and Data Visualization](#class-4-pandas-and-data-visualization)
+8/22: [Supervised Machine Learning and Basic Model Evaluation](#class-5-supervised-machine-learning-and-basic-model-evaluation) | 8/24: [Unsupervised Machine Learning and Basic Model Evaluation](#class-6-unsupervised-machine-learning-and-basic-model-evaluation)
+8/29: [Advanced Supervised Learning](#class-7-advanced-supervised-learning) | 8/31: [Data Modeling: Feature Engineering and Basic Cross Validation](#class-8-feature-engineering-and-basic-cross-validation)
+9/5: [Data Modeling: Regularization, Feature Decomposition](#class-9-feature-decomposition-and-regularization) | 9/7: [Advanced Unsupervised Learning](#class-10-advanced-unsupervised-learning) 
+9/12: [Advanced Model Evaluation and Pipelines](#class-11-advanced-model-evaluation-and-data-pipelines) | 9/14: [Project Presentations and Course Wrap-up](#class-12-project-presentations-and-where-to-go-from-here)
 
 ### Before the Course Begins (Prework):
 * Install [Git](http://git-scm.com/downloads).
