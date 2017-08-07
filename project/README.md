@@ -69,7 +69,7 @@ Your project repository on GitHub should contain the following:
 
 ##### Logistics and tips for success
 
- * Please submit a link to your repository by 6pm on August 18.
+ * Please submit a link to your repository by 6pm on September 14th.
  * You do not have to present, but it would be awesome if you did. Depending on interest, you will have ~10 minutes to talk about your project, what you learned, and what you would have liked to have done if you had extra time (and what you will do in the future).
  * If your presentation is too long, focus it around the most interesting aspects of your project, rather than trying to include every last detail.
  * Tell your story in an engaging fashion. No one wants to sit through YABP (Yet Another Boring Presentation).
