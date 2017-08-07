@@ -22,7 +22,7 @@ Tuesday | Thursday
     * It is not necessary to download "GitHub for Windows" or "GitHub for Mac"
 * Install [SourceTree](https://www.sourcetreeapp.com) and sign into your github account through it.
 * Install [slack](https://slack.com) and get the necessary credentials to communicate on the metis slack channels.
-* Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
+* Install the [Anaconda distribution](http://continuum.io/downloads) of **Python 3**.
     * If you choose not to use Anaconda, here is a list of the [Python packages](utils/python_packages.md) you will need to install prior to starting the course.
 * Complete exercises 1-7, 13, 18-21, 27-35, 38, 39 of [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * Watch the [linear algebra review videos](https://class.coursera.org/ml-005/lecture/preview) from Andrew Ng’s excellent Coursera ML course. They are labeled III. Linear Algebra Review (Week 1).
