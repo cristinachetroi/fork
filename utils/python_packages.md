@@ -13,9 +13,10 @@ Note: Some of these packages have dependencies that will also need to be install
 * `scipy`
 
 ### Available for installation via `conda` or `pip`
-* seaborn (`conda install seaborn` or `pip install seaborn` depending on what you're using)
-* pyparsing version 1.5.7 (`conda install pyparsing=1.5.7` or `pip install pyparsing==1.5.7` depending on what you're using)
-* pydot (`conda install pydot` or `pip install pydot` depending on what you're using)
+* `seaborn` (`conda install seaborn` or `pip install seaborn` depending on what you're using)
+* `pyparsing` version 1.5.7 (`conda install pyparsing=1.5.7` or `pip install pyparsing==1.5.7` depending on what you're using)
+* `pydotplus` (`conda install pydot` or `pip install pydot` depending on what you're using)
+* `yellowbrick` (`conda install -c districtdatalabs yellowbrick`)
 
 ### Dude, what are my options if I don't want to install Anaconda?
 
@@ -25,6 +26,8 @@ Note: Some of these packages have dependencies that will also need to be install
 * type `brew update`
 * type `brew install python` in a terminal window (this will install pip, the package manager we want)
 * individually install all of the packages you need listed above by following this pattern: `pip install BLAH` where BLAH is the package name.
+
+Or just save yourself the headache and just use Anaconda.
 
 #### If you don't want to use [Anaconda](http://docs.continuum.io/anaconda/), and you have a Linux Distro:
 * Get pip-tools or pip (whatever it may be called on your distribution) via your favorite package manager (apt-get, yum, whatever)
